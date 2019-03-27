@@ -1,1 +1,18 @@
-!function(n,t){function e(n){this.index=0,this.len=n}e.prototype={prev:function(){return this.getIndex(-1)},next:function(){return this.getIndex(1)},getIndex:function(n){return this.index=(this.index+n+this.len)%this.len}},t.ControlIndex=e}(window.Zepto,window.player||(window.palyer={}));
+(function($,root){
+    function Control(len){
+        this.index = 0;
+        this.len = len;
+    }
+    Control.prototype = {
+        prev:function(){
+            return this.getIndex(-1);
+        },
+        next:function(){
+            return this.getIndex(1);
+        },
+        getIndex:function(num){ //计算改变后的索引
+            return this.index = (this.index + num + this.len) % this.len;
+        }
+    }
+    root.ControlIndex = Control;
+})(window.Zepto,window.player || (window.palyer = {}))
