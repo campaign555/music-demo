@@ -1,15 +1,15 @@
 [
     {
-        "image": "http://img.lzep.cn/ep/other/test/source/song_0.jpg",
-        "audio": "http://img.lzep.cn/ep/other/test/source/song_0.mp3",
+        "image": "/source/song_0.jpg",
+        "audio": "/source/song_0.mp3",
         "song": "Far Away from Home",
         "album": "Covergirl",
         "singer": "Groove Coverage",
         "duration": 262,
         "isLike": true
     },{
-        "image": "http://img.lzep.cn/ep/other/test/source/song_1.jpg",
-        "audio": "http://img.lzep.cn/ep/other/test/source/song_1.mp3",
+        "image": "/source/song_1.jpg",
+        "audio": "/source/song_1.mp3",
         "song": "丑八怪",
         "album": "意外",
         "singer": "薛之谦",
@@ -17,8 +17,8 @@
         "isLike": true
     },
     {
-        "image": "http://img.lzep.cn/ep/other/test/source/song_2.jpg",
-        "audio": "http://img.lzep.cn/ep/other/test/source/song_2.mp3",
+        "image": "/source/song_2.jpg",
+        "audio": "/source/song_2.mp3",
         "song": "小半",
         "album": "小梦大半",
         "singer": "陈粒",
@@ -26,8 +26,8 @@
         "isLike": false
     },
     {
-        "image": "http://img.lzep.cn/ep/other/test/source/song_3.jpg",
-        "audio": "http://img.lzep.cn/ep/other/test/source/song_3.mp3",
+        "image": "/source/song_3.jpg",
+        "audio": "/source/song_3.mp3",
         "song": "Shape of You",
         "album": "÷",
         "singer": "ed sheeran",
@@ -35,8 +35,8 @@
         "isLike": false
     },
     {
-        "image": "http://img.lzep.cn/ep/other/test/source/song_4.jpg",
-        "audio": "http://img.lzep.cn/ep/other/test/source/song_4.mp3",
+        "image": "/source/song_4.jpg",
+        "audio": "/source/song_4.mp3",
         "song": "夜空中最亮的星",
         "album": "世界",
         "singer": "逃跑计划",
@@ -44,8 +44,8 @@
         "isLike": false
     },
     {
-        "image": "http://img.lzep.cn/ep/other/test/source/song_5.jpg",
-        "audio": "http://img.lzep.cn/ep/other/test/source/song_5.mp3",
+        "image": "/source/song_5.jpg",
+        "audio": "/source/song_5.mp3",
         "song": "一生有你",
         "album": "一生有你",
         "singer": "张辛怡",
@@ -53,8 +53,8 @@
         "isLike": false
     },
     {
-        "image": "http://img.lzep.cn/ep/other/test/source/song_6.jpg",
-        "audio": "http://img.lzep.cn/ep/other/test/source/song_6.mp3",
+        "image": "/source/song_6.jpg",
+        "audio": "/source/song_6.mp3",
         "song": "红日 (Live)",
         "album": "",
         "singer": "李克勤、Soler、傅海峰",
@@ -62,8 +62,8 @@
         "isLike": false
     },
     {
-        "image": "http://img.lzep.cn/ep/other/test/source/song_7.jpg",
-        "audio": "http://img.lzep.cn/ep/other/test/source/song_7.mp3",
+        "image": "/source/song_7.jpg",
+        "audio": "/source/song_7.mp3",
         "song": "消愁 (Live)",
         "album": "2018江苏卫视跨年演唱会",
         "singer": "薛之谦",

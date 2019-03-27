@@ -2,7 +2,7 @@
 (function($,root){
     function renderImg(src){
         var img = new Image()
-        // src = '../..' + src;
+        src = '../..' + src;
         img.src = src;
         img.onload = function(){
             $('.img-box img').attr('src',src);

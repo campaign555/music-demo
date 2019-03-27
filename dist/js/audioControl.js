@@ -14,7 +14,7 @@
             this.status = 'pause';
         },
         getAudio:function(src){
-            this.audio.src = src;
+            this.audio.src = '../..' + src;
             this.audio.load();
         },
         playTo:function(t){
