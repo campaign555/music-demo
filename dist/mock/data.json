@@ -1,0 +1,73 @@
+[
+    {
+        "image": "/source/song_0.jpg",
+        "audio": "/source/song_0.mp3",
+        "song": "Far Away from Home",
+        "album": "Covergirl",
+        "singer": "Groove Coverage",
+        "duration": 262,
+        "isLike": true
+    },{
+        "image": "/source/song_1.jpg",
+        "audio": "/source/song_1.mp3",
+        "song": "丑八怪",
+        "album": "意外",
+        "singer": "薛之谦",
+        "duration": 253,
+        "isLike": true
+    },
+    {
+        "image": "/source/song_2.jpg",
+        "audio": "/source/song_2.mp3",
+        "song": "小半",
+        "album": "小梦大半",
+        "singer": "陈粒",
+        "duration": 297,
+        "isLike": false
+    },
+    {
+        "image": "/source/song_3.jpg",
+        "audio": "/source/song_3.mp3",
+        "song": "Shape of You",
+        "album": "÷",
+        "singer": "ed sheeran",
+        "duration": 235,
+        "isLike": false
+    },
+    {
+        "image": "/source/song_4.jpg",
+        "audio": "/source/song_4.mp3",
+        "song": "夜空中最亮的星",
+        "album": "世界",
+        "singer": "逃跑计划",
+        "duration": 262,
+        "isLike": false
+    },
+    {
+        "image": "/source/song_5.jpg",
+        "audio": "/source/song_5.mp3",
+        "song": "一生有你",
+        "album": "一生有你",
+        "singer": "张辛怡",
+        "duration": 269,
+        "isLike": false
+    },
+    {
+        "image": "/source/song_6.jpg",
+        "audio": "/source/song_6.mp3",
+        "song": "红日 (Live)",
+        "album": "",
+        "singer": "李克勤、Soler、傅海峰",
+        "duration": 268,
+        "isLike": false
+    },
+    {
+        "image": "/source/song_7.jpg",
+        "audio": "/source/song_7.mp3",
+        "song": "消愁 (Live)",
+        "album": "2018江苏卫视跨年演唱会",
+        "singer": "薛之谦",
+        "duration": 173,
+        "isLike": false
+    }
+]
